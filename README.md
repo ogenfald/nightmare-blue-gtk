@@ -14,3 +14,5 @@ A GTK 2/3 theme based off of maxim2's [Openbox theme](https://www.box-look.org/p
 - Copy `tint2rc` to `~/.tint2`
 ### Icons
 - I suggest [Papirus-Dark](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme).
+### Terminal
+- Use whatever scheme works for you but I suggest a background of `#232323` to match the GUI applications
