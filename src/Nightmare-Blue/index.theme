@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Nightmare-Blue
+Comment=GTK theme based off of https://www.box-look.org/p/1017737/
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Nightmare-Blue
+GtkTheme=Nightmare-Blue
+IconTheme=Nightmare-Blue
+MetacityTheme=Nightmare-Blue
